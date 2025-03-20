@@ -6,7 +6,7 @@
 - YouTube: https://www.youtube.com/@tiridu-in-youtube
 - Relevant Project ?? ---> https://secretaria-liard.vercel.app/
 - Linkedin: www.linkedin.com/in/gpje
-- 😄 Pronouns: I don't care, my friends said me ñoño.
+- 😄 Pronouns: Call me by my name, Jonathan.
 - ⚡ Fun fact: mmm...
 
 <!---
