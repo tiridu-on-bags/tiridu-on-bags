@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on open source code to chill, but my first mind is on business related projects.
 - 📫 You can reach me on jonathan@bagsamples.com.mx
 - YouTube: https://www.youtube.com/@tiridu-in-youtube
+- Relevant Project ?? ---> https://secretaria-liard.vercel.app/
 - Linkedin: www.linkedin.com/in/gpje
 - 😄 Pronouns: I don't care, my friends said me ñoño.
 - ⚡ Fun fact: mmm...
