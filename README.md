@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source code to chill, but my first mind is on business related projects.
 - 📫 You can reach me on jonathan@bagsamples.com.mx
 - YouTube: https://www.youtube.com/@tiridu-in-youtube
-- Project  ---> https://secretaria-liard.vercel.app/
+- Project  ---> https://www.psicoclick.app/
 - Linkedin: www.linkedin.com/in/gpje
 - 😄 Pronouns: Call me by my name, Jonathan.
 - ⚡ Fun fact: mmm...
