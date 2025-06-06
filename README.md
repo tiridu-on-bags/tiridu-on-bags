@@ -5,6 +5,10 @@
 - 📫 You can reach me on jonathan@bagsamples.com.mx
 - YouTube: https://www.youtube.com/@tiridu-in-youtube
 - Project  ---> https://www.psicoclick.app/
+- Hugging Face NER Models --->
+      https://huggingface.co/JonathanEGP/Beto_Ner
+      https://huggingface.co/JonathanEGP/mBert_Ner
+      https://huggingface.co/JonathanEGP/RoBERTa_base_bn_ner
 - Linkedin: www.linkedin.com/in/gpje
 - 😄 Pronouns: Call me by my name, Jonathan.
 - ⚡ Fun fact: mmm...
